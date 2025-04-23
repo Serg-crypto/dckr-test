@@ -1,0 +1,6 @@
+
+
+Para crear los contenedores se usa: docker-compose up -d (dentro del archivo docker-compose.yaml 
+está definida la construcción de la imagen de la app y tambien se obtiene la imagen de redis desde dockerhub)
+La persistencia del contenedor se pierde si los contenedores son eliminados 
+por lo que la cuenta de la función de app.py volverá a iniciar cada vez que se vuelven a construir los contenedores.
