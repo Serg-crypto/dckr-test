@@ -1,8 +1,8 @@
 
 # Comandos:   make build_containers_elk
 #             make restart_alk
-#			  make show_elk
-#	          make deep_delete
+#             make show_elk
+#	      make deep_delete
 
 #--------------------------------------
 # DEPLOY ELK
