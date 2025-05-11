@@ -1,0 +1,19 @@
+	
+
+
+Grafana and Prometheus are popular tools in the monitoring and observability space.
+Grafana is a data visualization platform that allows you to create custom dashboards 
+to display real-time metrics and data. It's commonly used for:
+
+Visualizing time-series data
+Creating dashboards to monitor application and system performance
+Displaying charts and tables to analyze trends and patterns
+Prometheus, on the other hand, is a monitoring and alerting system that focuses on collecting metrics from systems and applications. 
+It's commonly used for:
+
+Collecting performance metrics, such as CPU usage, memory usage, and network usage
+Storing and processing time-series data
+Defining alerts and notifications based on specific conditions
+
+Together, Grafana and Prometheus are used to monitor and analyze system and application performance, 
+allowing DevOps and SRE (Site Reliability Engineering) teams to identify issues and optimize performance.
