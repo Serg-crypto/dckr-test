@@ -27,7 +27,7 @@ stop_elk: ## Detiene todos los servicios ELK en ejecucion
 	@echo 'Deteniendo los containers ELK'
 	cd elk && docker-compose stop
 	
-start_elk: ## Detiene todos los servicios ELK en ejecucion
+start_elk: ## Inicia todos los servicios ELK en ejecucion
 	@echo 'Iniciando los containers ELK'
 	cd elk && docker-compose start
 
